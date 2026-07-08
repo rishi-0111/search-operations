@@ -16,6 +16,6 @@ class Main{
         }
         
          
-        if(c<0)System.out.print("found");
+        if(c>0)System.out.print("found");
         else System.out.print("not found");
     }
